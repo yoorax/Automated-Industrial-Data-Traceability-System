@@ -4,12 +4,6 @@
 This project was conducted as part of a Master's thesis in Mechanical Engineering, Robotics, and Innovative Materials. It addresses a critical need within the **MCP (Mono-Calcium Phosphate) workshop** at the OCP Safi industrial complex: the digitalization of the bagging line's performance monitoring.
 
 The primary objective was to move from a manual, reactive management style to a data-driven, proactive approach by designing and deploying a "Full-Stack" engineering solution for real-time data traceability and automated KPI analysis.
-# Industrial Performance Tracking & Analytics System
-
-## 1. Introduction
-This project was conducted as part of a Master's thesis in Mechanical Engineering, Robotics, and Innovative Materials. It addresses a critical need within the **MCP (Mono-Calcium Phosphate) workshop** at the OCP Safi industrial complex: the digitalization of the bagging line's performance monitoring.
-
-The primary objective was to move from a manual, reactive management style to a data-driven, proactive approach by designing and deploying a "Full-Stack" engineering solution for real-time data traceability and automated KPI analysis.
 
 ## 2. Situation
 The bagging line in the MCP storage hall is a critical final step in the production chain, responsible for packaging the finished product into 25kg bags before distribution. The process relies on a complex series of equipment operating in sequence to ensure efficiency and quality.

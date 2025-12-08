@@ -68,7 +68,7 @@ I created three dedicated forms using VBA to capture data at the source:
 
 <img width="1052" height="367" alt="image" src="https://github.com/user-attachments/assets/ca2a7d62-8781-47c6-bcd5-e8f19de4d76d" />
 
-* I used VBA and ADO (ActiveX Data Objects) to build a pipeline that securely transfers data from these validated Excel worksheets directly into the SQL Server database with a single click, handling data type conversion and cleaning automatically
+I used VBA and ADO (ActiveX Data Objects) to build a pipeline that securely transfers data from these validated Excel worksheets directly into the SQL Server database with a single click, handling data type conversion and cleaning automatically
 
 ### Phase 3: Back-End Automation (SQL Server)
 This is the "engine" of the system. Instead of calculating KPIs in Excel or Power BI, I automated the logic inside the database for reliability:
